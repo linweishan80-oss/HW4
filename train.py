@@ -69,7 +69,7 @@ def main():
     # 4. Train the network
     # We'll train for a few epochs for demonstration purposes.
     # For better accuracy, more epochs are needed.
-    num_epochs = 5 
+    num_epochs = 1 
     print(f"Training for {num_epochs} epochs...")
 
     for epoch in range(num_epochs):
